@@ -18,18 +18,18 @@
  
  💻 I’m currently learning full-stack development.
 
- 💬 Ask me about *Node.js, React, JavaScript, CSS, HTML... or anything [here](https://github.com/dilraj1602/dilraj1602/issues)*
+ 💬 Ask me about *Node.js, React, JavaScript, CSS, HTML... or anything [here](https://github.com/1DS22AI022Minakshi/1DS22AI022Minakshi/issues)*
 
 </div>
 
 <div align="center"> 
-  <a href="mailto:bt22cse183@iiitn.ac.in">
+  <a href="mailto:1ds22ai022@dsce.edu.in">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/dil-raj-503b44266/" target="_blank">
+  <a href=https://www.linkedin.com/in/minakshi-kumari-6a78aa25b target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/WOLFStrix360/" target="_blank" rel="noopener noreferrer">
+  <a href="https://leetcode.com/u/Mirelli1319/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
